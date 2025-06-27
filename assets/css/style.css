@@ -36,3 +36,25 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+figcaption{
+    font-size: 12px;
+}
+details{
+    font-size: 15px;
+}
+input {
+ position: absolute;
+  top: 55px;     
+  left: 500px; 
+}
+.lupa {
+ position: absolute;
+  top: 55px; 
+  left: 475px; 
+}
+.logo{
+   margin-left: 20px; 
+}
+iframe{
+    margin-left: 150px;
+}
